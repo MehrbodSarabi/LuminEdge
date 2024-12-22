@@ -140,14 +140,14 @@ main {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 1rem;
-    padding: 1rem;
+    /* padding: 1rem; */
 }
 
 .product-card {
     background-color: #222;
     border-radius: 10px;
     padding: 1rem;
-    margin-bottom: 2rem;
+    /* margin-bottom: 2rem; */
     text-align: center;
     transition: transform 0.3s, box-shadow 0.3s;
 }
@@ -347,27 +347,6 @@ footer {
         padding: 0.5rem;
     }
 
-    .product-image {
-        height: 150px;
-    }
-
-    /* Form */
-    form {
-        padding: 1.5rem;
-    }
-
-    form label {
-        font-size: 0.9rem;
-    }
-
-    form input, form textarea {
-        padding: 0.5rem;
-    }
-
-    form .cta-button {
-        font-size: 0.9rem;
-        padding: 0.5rem;
-    }
 
     /* Contact Methods */
     .contact-methods {
@@ -420,8 +399,5 @@ footer {
         grid-template-columns: 1fr;
     }
 
-    .product-image {
-        height: 120px;
-    }
 }
 
