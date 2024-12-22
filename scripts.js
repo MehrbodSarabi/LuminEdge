@@ -6,7 +6,7 @@ const products = [
       price: "$25",
       image: "images/jewelry-box.jpg",
       gallery: ["images/jewelry-box.jpg", "images/jewelry-box-2.jpg", "images/jewelry-box-3.jpg"],
-      whatsappLink: "https://wa.me/00989233479443?text=I%20want%20to%20order%20Elegant%20Jewelry%20Box"
+      whatsappLink: "https://wa.me/+989233479443?text=I%20want%20to%20order%20Elegant%20Jewelry%20Box"
   },
   {
       name: "Laser-Cut Pet Earrings",
@@ -14,7 +14,7 @@ const products = [
       price: "$15",
       image: "images/laser-earring-01.jpg",
       gallery: ["images/jewelry-box.jpg", "images/jewelry-box-2.jpg", "images/jewelry-box-3.jpg"],
-      whatsappLink: "https://wa.me/00989233479443?text=I%20want%20to%20order%20Laser-Cut%20Pet%20Earrings"
+      whatsappLink: "https://wa.me/+989233479443?text=I%20want%20to%20order%20Laser-Cut%20Pet%20Earrings"
   },
   {
       name: "Acrylic Wall Art",
@@ -22,7 +22,7 @@ const products = [
       price: "$40",
       image: "images/wall-art-01.jpg",
       gallery: ["images/jewelry-box.jpg", "images/jewelry-box-2.jpg", "images/jewelry-box-3.jpg"],
-      whatsappLink: "https://wa.me/00989233479443?text=I%20want%20to%20order%20Acrylic%20Wall%20Art"
+      whatsappLink: "https://wa.me/+989233479443?text=I%20want%20to%20order%20Acrylic%20Wall%20Art"
   },
   {
       name: "Limited Edition Poker Set",
@@ -30,7 +30,7 @@ const products = [
       price: "$100",
       image: "images/poker-set.jpg",
       gallery: ["images/jewelry-box.jpg", "images/jewelry-box-2.jpg", "images/jewelry-box-3.jpg"],
-      whatsappLink: "https://wa.me/00989233479443?text=I%20want%20to%20order%20Limited%20Edition%20Poker%20Set"
+      whatsappLink: "https://wa.me/+989233479443?text=I%20want%20to%20order%20Limited%20Edition%20Poker%20Set"
   }
 ];
 
