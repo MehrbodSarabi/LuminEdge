@@ -11,14 +11,14 @@ const products = [
       name: "Laser-Cut Pet Earrings",
       category: "jewelry",
       price: "$15",
-      image: "images/pet-earrings.jpg",
+      image: "images/laser-earring-01.jpg",
       whatsappLink: "https://wa.me/00989233479443?text=I%20want%20to%20order%20Laser-Cut%20Pet%20Earrings"
   },
   {
       name: "Acrylic Wall Art",
       category: "wall-art",
       price: "$40",
-      image: "images/wall-art.jpg",
+      image: "images/wall-art-01.jpg",
       whatsappLink: "https://wa.me/00989233479443?text=I%20want%20to%20order%20Acrylic%20Wall%20Art"
   },
   {
